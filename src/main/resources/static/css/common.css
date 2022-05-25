@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 1px solid black; /* 필요할 때마다 활성화하기 */
+}
+
+.test {
+    padding: 40px;
+}

@@ -1,0 +1,34 @@
+/* Background, Component Color */
+.bg_primary {
+    background-color: white;
+}
+
+.bg_secondary {
+    background-color: #FE7E33;
+}
+
+
+
+/* Border Color */
+.border_primary {
+    border: 1px solid #F5F5F5;
+}
+
+
+
+/* Text Color */
+.text_primary {
+    color: #101010;
+}
+
+.text_secondary {
+    color: #8C8C8C;
+}
+
+.text_white {
+    color: white;
+}
+
+.text_active {
+    color: #FE7E33;
+}
