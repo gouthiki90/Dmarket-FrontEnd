@@ -1,4 +1,7 @@
 * {
+<<<<<<< HEAD
+
+=======
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
@@ -7,4 +10,5 @@
 
 .test {
     padding: 40px;
+>>>>>>> b334c20e8a5e4db045cc8d25364497aedfdde18f
 }
