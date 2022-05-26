@@ -1,3 +1,14 @@
 * {
+<<<<<<< HEAD
 
+=======
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 1px solid black; /* 필요할 때마다 활성화하기 */
+}
+
+.test {
+    padding: 40px;
+>>>>>>> b334c20e8a5e4db045cc8d25364497aedfdde18f
 }

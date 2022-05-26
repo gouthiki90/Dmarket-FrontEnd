@@ -1,0 +1,217 @@
+/*------------- small ------------- */
+.m_sm_1 {
+    margin: 10px;
+}
+
+.p_sm_1 {
+    padding: 10px;
+}
+
+/* margin */
+.mv_sm_1 {
+    margin: 10px 0;
+}
+
+.mh_sm_1 {
+    margin: 0 10px;
+}
+
+.mr_sm_1 {
+    margin-right: 10px;
+}
+
+.ml_sm_1 {
+    margin-left: 10px;
+}
+
+.mt_sm_1 {
+    margin-top: 10px;
+}
+
+.mb_sm_1 {
+    margin-bottom: 10px;
+}
+
+/* padding */
+.pv_sm_1 {
+    padding: 10px 0;
+}
+
+.ph_sm_1 {
+    padding: 0 10px;
+}
+
+.pr_sm_1 {
+    padding-right: 10px;
+}
+
+.pl_sm_1 {
+    padding-left: 10px;
+}
+
+.pt_sm_1 {
+    padding-top: 10px;
+}
+
+.pb_sm_1 {
+    padding-bottom: 10px;
+}
+
+
+
+
+
+/*------------- medium ------------- */
+.m_md_1 {
+    margin: 20px;
+}
+
+.p_md_1 {
+    padding: 20px;
+}
+
+/* margin */
+.mv_md_1 {
+    margin: 20px 0;
+}
+
+.mh_md_1 {
+    margin: 0 20px;
+}
+
+.mr_md_1 {
+    margin-right: 20px;
+}
+
+.ml_md_1 {
+    margin-left: 20px;
+}
+
+.mt_md_1 {
+    margin-top: 20px;
+}
+
+.mb_md_1 {
+    margin-bottom: 20px;
+}
+
+/* padding */
+.pv_md_1 {
+    padding: 20px 0;
+}
+
+.ph_md_1 {
+    padding: 0 20px;
+}
+
+.pr_md_1 {
+    padding-right: 20px;
+}
+
+.pl_md_1 {
+    padding-left: 20px;
+}
+
+.pt_md_1 {
+    padding-top: 20px;
+}
+
+.pb_md_1 {
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+/*------------- large ------------- */
+.m_lg_1 {
+    margin: 40px;
+}
+
+.p_lg_1 {
+    padding: 40px;
+}
+
+/* margin */
+.mv_lg_1 {
+    margin: 40px 0;
+}
+
+.mh_lg_1 {
+    margin: 0 40px;
+}
+
+.mr_lg_1 {
+    margin-right: 40px;
+}
+
+.ml_lg_1 {
+    margin-left: 40px;
+}
+
+.mt_lg_1 {
+    margin-top: 40px;
+}
+
+.mb_lg_1 {
+    margin-bottom: 40px;
+}
+
+/* padding */
+.pv_lg_1 {
+    padding: 40px 0;
+}
+
+.ph_lg_1 {
+    padding: 0 40px;
+}
+
+.pr_lg_1 {
+    padding-right: 40px;
+}
+
+.pl_lg_1 {
+    padding-left: 40px;
+}
+
+.pt_lg_1 {
+    padding-top: 40px;
+}
+
+.pb_lg_1 {
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+/*------------- X-large ------------- */
+.m_lg_1 {
+    margin: 60px;
+}
+
+.p_lg_1 {
+    padding: 60px;
+}
+
+/* margin */
+.mv_lg_1 {
+    margin: 60px 0;
+}
+
+.mh_lg_1 {
+    margin: 0 60px;
+}
+
+/* padding */
+.pv_lg_1 {
+    padding: 60px 0;
+}
+
+.ph_lg_1 {
+    padding: 0 60px;
+}
