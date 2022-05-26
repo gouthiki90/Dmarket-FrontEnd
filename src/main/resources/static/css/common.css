@@ -2,9 +2,34 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    border: 1px solid black; /* 필요할 때마다 활성화하기 */
+    /* border: 1px solid black; 필요할 때마다 활성화하기 */
 }
 
-.test {
-    padding: 40px;
+.m_header_logo {
+    width: 140px;
+    height: 40px;
+}
+
+.m_navbar {
+    display: flex;
+    background-color: aqua;
+    padding: 20px;
+    align-items: center;
+}
+
+.m_search_bar {
+    width: 400px;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn_header {
+    width: 100px;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    padding: 10px;
+    color: #495057;
+    font-weight: 900;
+    font-size: 18px;
 }
