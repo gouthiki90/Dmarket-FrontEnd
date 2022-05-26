@@ -5,6 +5,10 @@
     /* border: 1px solid black; 필요할 때마다 활성화하기 */
 }
 
+.aqua {
+    background-color: aqua;
+}
+
 .m_header_logo {
     width: 140px;
     height: 40px;
@@ -12,7 +16,7 @@
 
 .m_navbar {
     display: flex;
-    background-color: aqua;
+    background-color: white;
     padding: 20px;
     align-items: center;
 }
@@ -22,13 +26,27 @@
     border: 1px solid #F5F5F5;
     border-radius: 5px;
     padding: 10px;
+    background-image: url("/images/search-bar-icon.svg");
+    background-repeat: no-repeat;
+    background-position: 98% center;
+}
+
+.m_search_bar::placeholder {
+    color: #d1d3d8;
+    font-size: 18px;
+}
+
+.m_search_bar:focus {
+    outline: none;
+    border: 1px solid #495057;
 }
 
 .btn_header {
     width: 100px;
-    border: 1px solid #F5F5F5;
+    border: 1px solid #d1d3d8;
     border-radius: 5px;
     padding: 10px;
+    background-color: white;
     color: #495057;
     font-weight: 900;
     font-size: 18px;
