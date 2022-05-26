@@ -190,28 +190,92 @@
 
 
 /*------------- X-large ------------- */
-.m_lg_1 {
+.m_xg_1 {
     margin: 60px;
 }
 
-.p_lg_1 {
+.p_xg_1 {
     padding: 60px;
 }
 
 /* margin */
-.mv_lg_1 {
+.mv_xg_1 {
     margin: 60px 0;
 }
 
-.mh_lg_1 {
+.mh_xg_1 {
     margin: 0 60px;
 }
 
 /* padding */
-.pv_lg_1 {
+.pv_xg_1 {
     padding: 60px 0;
 }
 
-.ph_lg_1 {
+.ph_xg_1 {
     padding: 0 60px;
+}
+
+
+
+
+
+
+/*------------- XX-large ------------- */
+.m_xxg_1 {
+    margin: 80px;
+}
+
+.p_xxg_1 {
+    padding: 80px;
+}
+
+/* margin */
+.mv_xxg_1 {
+    margin: 80px 0;
+}
+
+.mh_xxg_1 {
+    margin: 0 80px;
+}
+
+.mr_xxg_1 {
+    margin-right: 80px;
+}
+
+.ml_xxg_1 {
+    margin-left: 80px;
+}
+
+.mt_xxg_1 {
+    margin-top: 80px;
+}
+
+.mb_xxg_1 {
+    margin-bottom: 80px;
+}
+
+/* padding */
+.pv_xxg_1 {
+    padding: 80px 0;
+}
+
+.ph_xxg_1 {
+    padding: 0 80px;
+}
+
+.pr_xxg_1 {
+    padding-right: 80px;
+}
+
+.pl_xxg_1 {
+    padding-left: 80px;
+}
+
+.pt_xxg_1 {
+    padding-top: 80px;
+}
+
+.pb_xxg_1 {
+    padding-bottom: 80px;
 }

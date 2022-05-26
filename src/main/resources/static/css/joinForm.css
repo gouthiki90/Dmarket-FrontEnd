@@ -1,9 +1,23 @@
-.logoim_size {
+.logoim { /* 이미지 크기 */
     height: 150px;
 }
 
-.jf_color {
-    background-color: white;
+.jf_color { /* 박스 보더 */
     border: none;
-    border-radius: 300px;
+    border-radius: 50px;
+}
+
+.box_position { /* 박스 포지션 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.join_box_position { /* 조인 박스 포지션 */
+    display: flex;
+    flex-direction: column;
+}
+
+.link_color {
+    color: gray;
 }
