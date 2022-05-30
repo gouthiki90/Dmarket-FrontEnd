@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class TestController {
 
-    @GetMapping("/main")
-    public String main() {
+    @GetMapping("/post/main")
+    public String list() {
         return "/post/main";
     }
 
@@ -17,4 +17,8 @@ public class TestController {
         return "/join/joinForm";
     }
 
+    @GetMapping("/main")
+    public String main() {
+        return "/join/start";
+    }
 }
