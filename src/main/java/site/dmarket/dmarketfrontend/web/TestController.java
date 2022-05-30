@@ -10,4 +10,9 @@ public class TestController {
     public String joinForm() {
         return "/join/joinForm";
     }
+
+    @GetMapping("/main")
+    public String main() {
+        return "/join/start";
+    }
 }
