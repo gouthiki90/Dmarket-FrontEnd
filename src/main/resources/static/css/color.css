@@ -14,6 +14,10 @@
     border: 1px solid #F5F5F5;
 }
 
+.border_secondary {
+    border: 1px solid #d1d3d8;
+}
+
 
 
 /* Text Color */
@@ -27,6 +31,10 @@
 
 .text_white {
     color: white;
+}
+
+.text_btn {
+    color: #495057;
 }
 
 .text_active {

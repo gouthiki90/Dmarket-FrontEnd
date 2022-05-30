@@ -2,6 +2,100 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+
+    /* 필요할 때마다 활성화하기 */
+    /* border: 1px solid black;  */
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header_logo {
+    width: 140px;
+    height: 35px;
+}
+
+.m_navbar {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    align-items: center;
+}
+
+.search_bar {
+    width: 400px;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    padding: 8px;
+    background-image: url("/images/search-bar-icon.svg");
+    background-repeat: no-repeat;
+    background-position: 98% center;
+}
+
+.search_bar::placeholder {
+    color: #d1d3d8;
+    font-size: 16px;
+}
+
+.search_bar:focus {
+    outline: none;
+    border: 1px solid #495057;
+}
+
+.btn_header {
+    width: 100px;
+    border: 1px solid #d1d3d8;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    color: #495057;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #495057;
+    color: #8C8C8C;
+    padding: 80px 0px;
+}
+
+
+.footer_menu_upper {
+    display: flex;
+    height: 160px;
+    font-size: 16px;
+    border-bottom: 1px solid #8C8C8C;
+}
+
+.footer_menu_lower {
+    padding-top: 40px;
+    font-size: 14px;
+}
+
+.footer_bold_1 {
+    color: #d1d3d8;
+    font-weight: 500;
+
+}
+
+.footer_bold_2 {
+    color: white;
+    font-weight: 600;
+}
+
+/* a태그 색상을 바꾸기 위해 만든 클래스 */
+
+.footer_bold_2 > a {
+    color: white;
+}
+
+.footer_a > a {
+    color: #8C8C8C;
     border: none;
     /* 필요할 때마다 활성화하기 */
 }
@@ -31,9 +125,12 @@
     border: 1px solid rgb(184, 184, 184);
     height: 60px;
     border-radius: 10px;
+<<<<<<< HEAD
 
 }
 
 .link_primary {
     color: #FE7E33;
+=======
+>>>>>>> 63c7413eed818e7086494d97fbae48e1ed5eaca9
 }
