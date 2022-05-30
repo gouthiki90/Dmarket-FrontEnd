@@ -11,4 +11,10 @@ public class TestController {
         return "/post/main";
     }
 
+
+    @GetMapping("/joinForm")
+    public String joinForm() {
+        return "/join/joinForm";
+    }
+
 }

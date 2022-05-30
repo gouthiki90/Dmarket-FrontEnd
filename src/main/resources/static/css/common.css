@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+
     /* 필요할 때마다 활성화하기 */
     /* border: 1px solid black;  */
 }
@@ -95,4 +96,33 @@ a {
 
 .footer_a > a {
     color: #8C8C8C;
+    border: none;
+    /* 필요할 때마다 활성화하기 */
+}
+
+.test {
+    padding: 40px;
+}
+
+.btn_primary {
+    background-color: #FE7E33;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+/* 나중에 추가하기 */
+.btn_primary_hb {
+    box-shadow: 0px 0px 0px 0px;
+}
+
+.btn_primary_border:hover {
+    box-shadow: 0px 0px 0px 3px #c16733;
+}
+
+.input_primary {
+    border: 1px solid rgb(184, 184, 184);
+    height: 60px;
+    border-radius: 10px;
 }
