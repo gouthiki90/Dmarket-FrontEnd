@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class TestController {
 
-    @GetMapping("/header")
-    public String header() {
-        return "/layout/header";
+    @GetMapping("/main")
+    public String main() {
+        return "/post/main";
     }
 
 }
