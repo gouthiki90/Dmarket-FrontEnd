@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-
+    border: none;
     /* 필요할 때마다 활성화하기 */
     /* border: 1px solid black;  */
 }
