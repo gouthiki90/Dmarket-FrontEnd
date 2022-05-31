@@ -2,7 +2,7 @@
     height: 150px;
 }
 
-.jf_color { /* 박스 보더 */
+.jf_color { /* 박스 보더 */ /*??*/
     border: none;
     border-radius: 50px;
 }
@@ -20,4 +20,37 @@
 
 .link_color {
     color: gray;
+}
+
+.join_input_box {
+    border: 1px solid rgb(184, 184, 184);
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn_join {
+    background-color: #FE7E33;
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.join_box {
+    width: 620px;
+    height: 600px;
+}
+
+.join_box_text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #8C8C8C;
+    font-weight: 500;
+}
+
+.font_600 {
+    font-weight: 600;
 }
