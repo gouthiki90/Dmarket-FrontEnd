@@ -106,7 +106,7 @@ a {
 
 .btn_primary {
     background-color: #FE7E33;
-    height: 45px;
+    height: 40px;
     border-radius: 10px;
     color: white;
     cursor: pointer;
@@ -123,7 +123,7 @@ a {
 
 .input_primary {
     border: 1px solid rgb(184, 184, 184);
-    height: 60px;
+    height: 40px;
     border-radius: 10px;
 
 }
